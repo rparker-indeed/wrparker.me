@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wrparker.me/bio/</loc>
+    <lastmod>2020-08-25T15:52:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/projects/</loc>
+    <lastmod>2020-08-25T15:52:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/tags/asdfasd/</loc>
+    <lastmod>2020-08-25T14:49:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/posts/2020/08/my-first-post/</loc>
+    <lastmod>2020-08-25T14:49:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/posts/</loc>
+    <lastmod>2020-08-25T14:49:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/tags/</loc>
+    <lastmod>2020-08-25T14:49:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/</loc>
+    <lastmod>2020-08-25T14:49:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wrparker.me/series/</loc>
+  </url>
+  
+</urlset>

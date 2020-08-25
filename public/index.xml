@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. Ryan Parker</title>
+    <link>https://wrparker.me/</link>
+    <description>Recent content on W. Ryan Parker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 25 Aug 2020 14:49:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://wrparker.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bio</title>
+      <link>https://wrparker.me/bio/</link>
+      <pubDate>Tue, 25 Aug 2020 15:52:19 -0500</pubDate>
+      
+      <guid>https://wrparker.me/bio/</guid>
+      <description>My name is (William) Ryan Parker. I typically go by my middle name, Ryan. I currently run a software engineering group at Indeed specializing in full-stack engineering for financial products.
+I received my undergraduate degree from the University of Central Arkanas, majoring in Chemistry and minoring in Computer Science. I obtained my master&amp;rsquo;s degree from the Brodbelt group at the University of Texas at Austin. There my work focused on identification of cystiene-containing peptides and proteins via chemical derivitaziation of chromophores.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://wrparker.me/projects/</link>
+      <pubDate>Tue, 25 Aug 2020 15:52:19 -0500</pubDate>
+      
+      <guid>https://wrparker.me/projects/</guid>
+      <description>More to come&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://wrparker.me/posts/2020/08/my-first-post/</link>
+      <pubDate>Tue, 25 Aug 2020 14:49:00 -0500</pubDate>
+      
+      <guid>https://wrparker.me/posts/2020/08/my-first-post/</guid>
+      <description>Hey</description>
+    </item>
+    
+  </channel>
+</rss>
